@@ -1,5 +1,6 @@
 # bong
-It's a small program that notifies you with a sound when a long running command finishes.
+It's a small program that notifies you with a sound when a long running command finishes.This will also be the smallest project I have done.
+
 
 ## Usage
 bong nmap -sV 192.168.1.1
